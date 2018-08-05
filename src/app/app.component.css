@@ -1,0 +1,13 @@
+.robot-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.robot-form-field {
+  width: 100%;
+}
+
+.robot-form-textarea {
+  min-height: 100px;
+}
